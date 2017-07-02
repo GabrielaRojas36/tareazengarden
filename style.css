@@ -313,7 +313,7 @@ Main
 ==========================================================================
 */
 .main {
-  background: url(mid-century-1.jpg) no-repeat center center;
+  background: url(http://wiki.ead.pucv.cl/images/thumb/0/0a/Herbert-spencer.jpg/200px-Herbert-spencer.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -981,4 +981,3 @@ Sidebar
   box-sizing: border-box;
   text-align: left;
 }
-

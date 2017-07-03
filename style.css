@@ -60,7 +60,7 @@ acronym[title] {
 }
 html,
 body {
-  font-family: roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-rendering: optimizeLegibility;
   font-size: 100%;
   line-height: 26px;

@@ -315,6 +315,7 @@ Main
 .main {
   background: url(http://wiki.ead.pucv.cl/images/thumb/0/0a/Herbert-spencer.jpg/200px-Herbert-spencer.jpg) no-repeat center center;
   -webkit-background-size: cover;
+  opacity:0.5;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
